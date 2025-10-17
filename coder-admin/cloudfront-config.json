@@ -29,7 +29,7 @@
     "Items": [
       {
         "Id": "coder-alb-origin",
-        "DomainName": "$CODER_LB_HOSTNAME",
+        "DomainName": "CODER_LB_HOSTNAME_PLACEHOLDER",
         "CustomOriginConfig": {
           "HTTPPort": 80,
           "HTTPSPort": 443,
